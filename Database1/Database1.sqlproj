@@ -183,7 +183,6 @@
     <Build Include="dbo\Functions\ufnGetAccountingStartDate.sql" />
     <Build Include="dbo\Functions\ufnGetDocumentStatusText.sql" />
     <Build Include="dbo\Functions\ufnGetProductDealerPrice.sql" />
-    <Build Include="dbo\Functions\ufnGetProductListPrice.sql" />
     <Build Include="dbo\Functions\ufnGetProductStandardCost.sql" />
     <Build Include="dbo\Functions\ufnGetPurchaseOrderStatusText.sql" />
     <Build Include="dbo\Functions\ufnGetSalesOrderStatusText.sql" />
